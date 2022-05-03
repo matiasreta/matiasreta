@@ -1,4 +1,5 @@
 #Hi there 👋
+<br>
 my skills:
 <br>
 ☕JAVA
@@ -6,5 +7,6 @@ my skills:
 🧃JavaScript
 <br>
 🀄HTML
+<br>
 🎴CSS
 

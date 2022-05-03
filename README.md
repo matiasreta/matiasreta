@@ -1,7 +1,3 @@
-#Hi there 👋
-<br>
-my skills:
-<br>
 ☕JAVA
 <br>
 🧃JavaScript
